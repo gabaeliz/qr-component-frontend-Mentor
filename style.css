@@ -1,0 +1,43 @@
+.bottom{
+    background-color: hsl(212, 45%, 89%);
+}
+.square {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+    height: 580px;
+    width: 400px;
+    align-content: center;
+    margin-left: 37%;
+}
+
+.qr {
+    border-radius: 5%;
+    height: 375px;
+    align-self: center;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.image-qr h3{
+    font-family: 'Karla', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;    
+}
+
+.image-qr p{
+    font-family: 'Karla', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.attribution {
+    font-family: 'Karla', sans-serif;
+    font-size: 11px;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
