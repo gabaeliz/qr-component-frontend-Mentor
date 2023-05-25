@@ -1,7 +1,8 @@
 .bottom{
     background-color: hsl(212, 45%, 89%);
 }
-.square {
+
+.attribution {
     background-color: hsl(0, 0%, 100%);
     border-radius: 5%;
     height: 580px;
@@ -31,13 +32,13 @@
     text-align: center;
 }
 
-.attribution {
+.reference {
     font-family: 'Karla', sans-serif;
-    font-size: 11px;
+    font-size: 15px;
     text-align: center;
     margin-top: 20%;
 }
 
-.attribution a {
+.reference a {
     color: hsl(228, 45%, 44%);
 }
